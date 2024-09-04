@@ -45,9 +45,7 @@ According to the Q2 2024 report by one of their collaborators, [SlowMist](https:
 
 <br>
 
-During exploitation analysis, users whose assets haven't been transferred have a higher chance of regaining asset custody. 
-
-As Amazing Ang once responded to a victim, "If your assets are already transferred, there is almost no hope."
+During exploitation analysis, users whose assets haven't been transferred have a higher chance of regaining asset custody. As Amazing Ang once responded to a victim, "If your assets are already transferred, there is almost no hope."
 
 In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [ZKsync](https://x.com/zksync) airdrop. During this rescue mission, they were able to recover nearly 840,000 $ZK from hundreds of stolen wallets. Check out the paymaster contracts [here.](https://x.com/ourRescuETH/status/1804901647350657063)
 
