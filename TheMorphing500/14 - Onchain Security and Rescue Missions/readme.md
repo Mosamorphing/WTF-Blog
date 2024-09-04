@@ -27,11 +27,11 @@ You can find out more about Flashbots [here.](https://www.flashbots.net/)
 
 ## "How do they achieve this?"
 
-‘’It is a race against the hackers.’’ says [@0xAA_Science](https://x.com/0xAA_Science), a core member at [@ourRescuETH](https://x.com/ourRescuETH/status/1753663348464636248)
+‘’It is a race against the hackers.’’ says [Amazing Ang](https://x.com/0xAA_Science), a core member at RescuETH.
 
 When users discover unauthorized access or transfers, they contact the team with transaction details, which are then analyzed for recovery efforts.
 
-According to the Q2 2024 report by one of their collaborators, [@slowmist_team](https://x.com/SlowMist_Team), the top 3 ways wallets get exploited are:
+According to the Q2 2024 report by one of their collaborators, [SlowMist](https://x.com/SlowMist_Team), the top 3 ways wallets get exploited are:
 
 🎣 Private key leaks
 🎣 Phishing
@@ -43,7 +43,7 @@ Read the full report from Slowmist Team [here.](https://t.co/GAtKpT4AlY)
 
 During exploitation analysis, users whose assets haven't been transferred have a higher chance of regaining asset custody. 
 
-As [@0xAA_Science](https://x.com/0xAA_Science) once responded to a victim, "If your assets are already transferred, there is almost no hope."
+As Amazing Ang once responded to a victim, "If your assets are already transferred, there is almost no hope."
 
 In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [@zkysync](https://x.com/zkysync) airdrop. 
 
@@ -67,6 +67,6 @@ Some choose pen and paper, others use a metal backup. Choose your preferred meth
 
 📌 DYOR to avoid investing in HoneyPot scams because once you invest, there is no way out. Avoid being an exit liquidity! 🫵
 
-That said, if you or someone you know fall victim, quickly reach out to the team [RescuETH](https://x.com/ourRescuETH/status/1753663348464636248) for help!
+That said, if you or someone you know fall victim, quickly send a DM to the team at [RescuETH](https://x.com/ourRescuETH) for help!
 
 STAY SAFU! 🤝
