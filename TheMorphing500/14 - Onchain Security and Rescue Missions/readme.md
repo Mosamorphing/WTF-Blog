@@ -33,9 +33,9 @@ When users discover unauthorized access or transfers, they contact the team with
 
 According to the Q2 2024 report by one of their collaborators, [SlowMist](https://x.com/SlowMist_Team), the top 3 ways wallets get exploited are:
 
-🎣 Private key leaks
-🎣 Phishing
-🎣 HoneyPot Scams
+- Private key leaks
+- Phishing
+- HoneyPot Scams
 
 Read the full report from Slowmist Team [here.](https://t.co/GAtKpT4AlY)
 
