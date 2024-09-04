@@ -45,7 +45,7 @@ During exploitation analysis, users whose assets haven't been transferred have a
 
 As Amazing Ang once responded to a victim, "If your assets are already transferred, there is almost no hope."
 
-In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [ZkySync](https://x.com/zkysync) airdrop. During this rescue mission, they were able to recover nearly 840,000 $ZK from hundreds of stolen wallets. Check out the paymaster contracts [here.](https://x.com/ourRescuETH/status/1804901647350657063)
+In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [ZKsync](https://x.com/zksync) airdrop. During this rescue mission, they were able to recover nearly 840,000 $ZK from hundreds of stolen wallets. Check out the paymaster contracts [here.](https://x.com/ourRescuETH/status/1804901647350657063)
 
 Some other assets they have been able to recover include $ETH, $MOBY, $USDe, $ENA, $CQT, $ATOM, $DYM, and $BLAST, to mention a few. 
 
