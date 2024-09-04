@@ -37,9 +37,9 @@ According to the Q2 2024 report by one of their collaborators, [SlowMist](https:
 - Phishing
 - HoneyPot Scams
 
-Read the full report from Slowmist Team [here.](https://t.co/GAtKpT4AlY)
-
 ![scams](https://pbs.twimg.com/media/GV_2vp6WkAA7I-w?format=png&name=medium)
+
+Read the full report from Slowmist Team [here.](https://t.co/GAtKpT4AlY)
 
 During exploitation analysis, users whose assets haven't been transferred have a higher chance of regaining asset custody. 
 
