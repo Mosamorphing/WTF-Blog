@@ -55,8 +55,6 @@ Some other assets they have been able to recover include $ETH, $MOBY, $USDe, $EN
 
 Their work continues to grow and they are currently in partnership with [OKLink China](https://x.com/OKLink_CN/status/1821887097000825200) to further amplify and strengthen asset security on Web3 💪
 
-![partnership](1-1.png)
-
 ## Some tips to avoid wallet exploitation:
 
 📌 Use trusted software wallets that have high resistance to breach and backup your mnemonics (12 seed phrase) in a secure location.
