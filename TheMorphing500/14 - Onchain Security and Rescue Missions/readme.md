@@ -45,7 +45,7 @@ During exploitation analysis, users whose assets haven't been transferred have a
 
 As Amazing Ang once responded to a victim, "If your assets are already transferred, there is almost no hope."
 
-In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [@zkysync](https://x.com/zkysync) airdrop. 
+In June 2024, they open-sourced two Paymaster contracts used in a rescue mission during the [ZkySync](https://x.com/zkysync) airdrop. 
 
 During this rescue mission, they were able to recover nearly 840,000 $ZK from hundreds of stolen wallets.
 
@@ -55,7 +55,7 @@ Some other assets they have been able to recover include $ETH, $MOBY, $USDe, $EN
 
 Their work continues to grow and they are currently in partnership with [OKLink China](https://x.com/OKLink_CN/status/1821887097000825200) to further amplify and strengthen asset security on Web3 💪
 
-![partnership](https://x.com/i/status/1828459645158985963)
+![partnership](1-1.png)
 
 ## Some tips to avoid wallet exploitation:
 
