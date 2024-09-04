@@ -21,7 +21,7 @@ How? Read on ⬇️
 
 They have wrestled with hackers, rescued victims and recovered over $1.2 million in assets from the crypto dark forest!
 
-RescuETH is built by the team [WTFAcademy_](https://x.com/WTFAcademy_) and their rescue missions are powered by Flashbots ⚡, a system that provides a secure way to move assets from a compromised wallet to a new, secure one.
+RescuETH is built by [WTFAcademy_](https://x.com/WTFAcademy_) and their rescue missions are powered by Flashbots ⚡, a system that provides a secure way to move assets from a compromised wallet to a new, secure one.
 
 You can find out more about Flashbots [here.](https://www.flashbots.net/)
 
