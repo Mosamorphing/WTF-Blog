@@ -49,7 +49,7 @@ In June 2024, they open-sourced two Paymaster contracts used in a rescue mission
 
 Some other assets they have been able to recover include $ETH, $MOBY, $USDe, $ENA, $CQT, $ATOM, $DYM, and $BLAST, to mention a few. 
 
-Their work continues to grow and they are currently in partnership with [OKLink China](https://x.com/OKLink_CN/status/1821887097000825200) to further amplify and strengthen asset security on Web3 💪
+Their work continues to grow and they have recently partnered with [OKLink China](https://x.com/OKLink_CN/status/1821887097000825200) to further amplify and strengthen asset security on Web3 💪
 
 ## Some tips to avoid wallet exploitation:
 
