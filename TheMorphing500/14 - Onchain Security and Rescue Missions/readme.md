@@ -17,7 +17,7 @@ How? Read on ⬇️
 
 ![rescue](https://pbs.twimg.com/media/GV_2BfUWYAAJCgu?format=jpg&name=large)
 
-[RescuETH](https://x.com/ourRescuETH/status/1753663348464636248) is one of those teams and they have had quite a run since their official operations began in February 2024.
+[RescuETH](https://x.com/ourRescuETH/status/1753663348464636248) is one of those rescue teams and they have had quite a run since their official operations began in February 2024.
 
 They have wrestled with hackers, rescued victims and recovered over $1.2 million in assets from the crypto dark forest!
 
