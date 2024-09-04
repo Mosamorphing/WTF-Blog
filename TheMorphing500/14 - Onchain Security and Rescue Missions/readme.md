@@ -43,6 +43,7 @@ According to the Q2 2024 report by one of their collaborators, [SlowMist](https:
   <i>Read the full report from Slowmist Team <a href="https://t.co/GAtKpT4AlY">here.</a></i>
 </div>
 
+<br>
 
 During exploitation analysis, users whose assets haven't been transferred have a higher chance of regaining asset custody. 
 
