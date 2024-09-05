@@ -38,7 +38,6 @@ According to the Q2 2024 report by one of their collaborators, [SlowMist](https:
 - HoneyPot Scams
 
 ![scams](https://pbs.twimg.com/media/GV_2vp6WkAA7I-w?format=png&name=medium)
-
 <div align="center">
   <i>Read the full report from Slowmist Team <a href="https://t.co/GAtKpT4AlY">here.</a></i>
 </div>
